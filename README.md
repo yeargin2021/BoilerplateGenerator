@@ -1,4 +1,4 @@
-# BoilerplateGenerator
+# Boilerplate Generator
 This is the first version of this app, written in Python3,
 which generated a boilerplate for your app like the one
 above. It still needs to be tweaked some, to put enough
